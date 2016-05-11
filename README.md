@@ -1,3 +1,3 @@
-# ldstj
+# All about pointer~
 load store jump
-this repository is about what I learnt from class
+this repository is about what I learnt in C
